@@ -61,7 +61,6 @@ section{
 }
 .img-1{
     height: 650px;
-    border-radius: 5px;
 }
 
 .clases-container{
@@ -96,6 +95,8 @@ section{
     color: #007bffa9;
     text-shadow: 1px 1px #000000b7
 }
+
+
 
 
 
